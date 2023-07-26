@@ -5,8 +5,11 @@ https://projects.urbanobservatory.ac.uk/projects/pyramid
 
 https://gtr.ukri.org/projects?ref=NE%2FV00378X%2F1
 
+### Architecture
+![PYRAMID overall architecture](./profile/img/workflow.drawio.png)
+
 ### DAFNI
-![PYRAMID DAFNI Architecture](./profile/img/workflow.drawio.png)
+![PYRAMID DAFNI workflow](./profile/img/dafni-workflow.jpg)
 
 ### Publications
 1. [Tong, X., Liang, Q., and Zhao, J.: A high-performance integrated hydrodynamic modelling framework for large-scale multi-process simulation, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-15113, https://doi.org/10.5194/egusphere-egu23-15113, 2023.](https://doi.org/10.5194/egusphere-egu23-15113)
