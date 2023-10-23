@@ -20,9 +20,9 @@ Hayley Fowler ([hayley.fowler@newcastle.ac.uk](mailto:hayley.fowler@newcastle.ac
 Elizabeth Lewis ([elizabeth.lewis2@newcastle.ac.uk](mailto:elizabeth.lewis2@newcastle.ac.uk))  
 Jon Mills ([jon.mills@newcastle.ac.uk](mailto:jon.mills@newcastle.ac.uk))  
 Ben Smith ([ben.smith4@newcastle.ac.uk](mailto:ben.smith4@newcastle.ac.uk))  
-Claire Walsh ([claire.walsh@newcastle.ac.uk](mailto:claire.walsh@newcastle.ac.uk))
+Claire Walsh ([claire.walsh@newcastle.ac.uk](mailto:claire.walsh@newcastle.ac.uk))  
 Shidong Wang ([shidong.wang@newcastle.ac.uk](mailto:shidong.wang@newcastle.ac.uk))  
-Robin Wardle ([robin.wardle@newcastle.ac.uk](mailto:robin.wardle@newcastle.ac.uk)]  
+Robin Wardle ([robin.wardle@newcastle.ac.uk](mailto:robin.wardle@newcastle.ac.uk))  
 
 #### Loughborough University
 Qiuhua Liang ([q.liang@lboro.ac.uk>](mailto:q.liang@lboro.ac.uk))  
