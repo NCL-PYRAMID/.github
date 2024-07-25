@@ -1,7 +1,6 @@
 ## NCL-PYRAMID
 
 ### About the project
-https://projects.urbanobservatory.ac.uk/projects/pyramid
 
 https://gtr.ukri.org/projects?ref=NE%2FV00378X%2F1
 
