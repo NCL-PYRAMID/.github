@@ -6,12 +6,12 @@ https://projects.urbanobservatory.ac.uk/projects/pyramid
 https://gtr.ukri.org/projects?ref=NE%2FV00378X%2F1
 
 ### Architecture
-![PYRAMID overall architecture](./profile/img/workflow.drawio.png)
+![PYRAMID overall architecture](./img/workflow.drawio.png)
 
 ### DAFNI
 PYRAMID has been implemented as a demonstrator workflow on the [STFC DAFNI platform](https://www.dafni.ac.uk/). Individual models consisting of simulators, data-collectors and data converters form the discrete elements of the workflow.
 
-![PYRAMID DAFNI workflow](./profile/img/dafni-workflow.png)
+![PYRAMID DAFNI workflow](./img/dafni-workflow.png)
 
 ### Project team
 #### Newcastle University
